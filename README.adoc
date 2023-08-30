@@ -5,58 +5,26 @@
 
 :numbered:
 
-== 01 Introduction & Goals
+include::01_introduction_and_goals.adoc[]
 
-As a small family we want build the house in Kruja, so that we can used during the holidays and short visits.
+include::02_architecture_constraints.adoc[]
 
-Finalizy with Small budget and just before end of 2023
+include::03_system_scope_and_context.adoc[]
 
-== 02 Contraints
+include::04_solution_strategy.adoc[]
 
-* Use Electric intallation standards from Germany
-* Use Water installation standards from Germany 
-* House inside hight must not smaller then 250 cm
-* The main Entry outside door must be on the south side
-* Inside walls must be 30 cm width
-* Windows must be 140 cm height and 90 up from floor
+include::05_building_block_view.adoc[]
 
-include::docs/03_system_scope_and_context.adoc[]
+include::06_runtime_view.adoc[]
 
-== 04 Solution Strategy
+include::07_deployment_view.adoc[]
 
-== 05 Building Blocks
+include::08_concepts.adoc[]
 
-=== Sleeping Room
+include::09_architecture_decisions.adoc[]
 
-=== Sleeping Room small
+include::10_quality_requirements.adoc[]
 
-=== Living Room
+include::11_technical_risks.adoc[]
 
-=== Essen Room
-
-=== Bath & WC
-
-=== Kitchen
-
-== 06 Runtime View
-
-== 07 Deployment View
-
-== 08 Crosscutting Concepts
-
-== 09 Architectural Decisions
-
-== 10 Quality Requirements
-
-== 11 Risks & Technical Debt
-
-=== Development Risks 
-
-* The Development Team is yound and not exeperienced with German standards
-* The House is older and not stable enough due to the last earthquake 2019‑11‑26
-
-=== Living Risks 
-
-* The House may be cold in winter months due to missing fassade isolation
-
-== 12 Glossary
+include::12_glossary.adoc[]

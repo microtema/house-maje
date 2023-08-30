@@ -1,0 +1,8 @@
+== 02 Contraints
+
+* Use Electric intallation standards from Germany
+* Use Water installation standards from Germany 
+* House inside hight must not smaller then 250 cm
+* The main Entry outside door must be on the south side
+* Inside walls must be 30 cm width
+* Windows must be 140 cm height and 90 up from floor
