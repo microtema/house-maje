@@ -1,0 +1,13 @@
+* Fenster Konfigurator
+  * https://www.bauhaus.info/konfiguratoren/fenster-solid-elements
+* House Configurator
+  * https://home.by.me
+* Elektro Installation
+  * Lichschalter
+    * 115 cm zu mitte des schalters
+    * weitere schalter/steckdose drunter
+  * Steckdosen
+    * 30 cm zu boden
+    * weitere stecker horizontal
+  * 15 zu Tür Kante
+  *
