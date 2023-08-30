@@ -70,6 +70,14 @@ image::05_building_block_outside.png[]
 
 == Concepts
 
+=== Include beton plate in the wall
+
+=== Replace walls with smaller
+
+=== Electric installation 
+
+=== Water installation
+
 == Architecture Decisions
 
 == Quality Requirements
@@ -78,7 +86,7 @@ image::05_building_block_outside.png[]
 
 === Development Risks 
 
-* The Development Team is yound and not exeperienced with German standards
+* The Development Team is young and not exeperienced with German standards
 * The House is older and not stable enough due to the last earthquake 2019‑11‑26
 
 === Living Risks 
