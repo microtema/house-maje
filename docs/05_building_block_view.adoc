@@ -4,10 +4,20 @@
 
 image::05_building_block_living_room.png[]
 
+image::05_building_block_living_room_2.png[]
+
 === Sleeping Room
+
+image::05_building_block_sleeping_room.png[]
 
 === Sleeping Room small
 
+image::05_building_block_sleeping_room_small.png[]
+
 === Bath & WC
 
-=== Garden side
+image::05_building_block_bath_room.png[]
+
+=== Outside main entry
+
+image::05_building_block_outside.png[]
