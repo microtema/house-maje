@@ -8,12 +8,14 @@ Finalizy with Small budget and just before end of 2023
 
 == 02 Contraints
 
-* Use Electric intallation standard from Germany
+* Use Electric intallation standards from Germany
 * Use Water installation standards from Germany 
-* House hight must not smaller then 250 cm
-* 
+* House inside hight must not smaller then 250 cm
+* The main Entry outside door must be on the south side
 
 == 03 Context & Scope
+
+* 
 
 == 04 Solution Strategy
 
@@ -42,5 +44,14 @@ Finalizy with Small budget and just before end of 2023
 == 10 Quality Requirements
 
 == 11 Risks & Technical Debt
+
+=== Development Risks 
+
+* The Development Team is yound and not exeperienced with German standards
+* The House is older and not stable enough due to the last earthquake 2019‑11‑26
+
+=== Living Risks 
+
+* The House may be cold in winter due to missing fassade isolation
 
 == 12 Glossary
