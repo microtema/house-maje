@@ -1,15 +1,13 @@
 == Building Block View
 
+=== Living Room
+
+image::05_building_block_living_room.png[]
+
 === Sleeping Room
 
 === Sleeping Room small
 
-=== Living Room
-
-=== Essen Room
-
 === Bath & WC
-
-=== Kitchen
 
 === Garden side
