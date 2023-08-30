@@ -2,4 +2,4 @@
 
 ifndef::imagesdir[:imagesdir: .]
 
-image::docs/03_context_and_scope.png[]
+image::03_context_and_scope.png[]
