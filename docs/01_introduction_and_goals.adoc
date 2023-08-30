@@ -1,5 +1,18 @@
-== 01 Introduction & Goals
+== Introduction & Goals
+
+ifndef::imagesdir[:imagesdir: .]
 
 As a small family we want build the house in Kruja, so that we can used during the holidays and short visits.
 
 Finalizy with Small budget and just before end of 2023
+
+=== Requirements Overview
+
+=== Stakeholders
+
+[options="header",cols="1,2,2"]
+|===
+|Name|Contact|Role/Expectations
+| _Mario Tema_ | _microtema@web.de_ | _Product Manager_
+| _<Role>_ | _<Contact>_ | _<Expectation>_
+|===

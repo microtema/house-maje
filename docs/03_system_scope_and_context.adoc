@@ -1,0 +1,3 @@
+== Context and Scope
+
+ifndef::imagesdir[:imagesdir: .]

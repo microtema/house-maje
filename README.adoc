@@ -1,30 +1,79 @@
 = House Maje
 
-:imagesdir: .
-:keywords: architecture, documentation, arc42
+:imagesdir: ./docs
 
 :numbered:
 
-include::01_introduction_and_goals.adoc[]
+== Introduction & Goals
 
-include::02_architecture_constraints.adoc[]
+ifndef::imagesdir[:imagesdir: .]
 
-include::03_system_scope_and_context.adoc[]
+As a small family we want build the house in Kruja, so that we can used during the holidays and short visits.
 
-include::04_solution_strategy.adoc[]
+Finalizy with Small budget and just before end of 2023
 
-include::05_building_block_view.adoc[]
+=== Requirements Overview
 
-include::06_runtime_view.adoc[]
+=== Stakeholders
 
-include::07_deployment_view.adoc[]
+[options="header",cols="1,2,2"]
+|===
+|Name|Contact|Role/Expectations
+| _Mario Tema_ | _microtema@web.de_ | _Product Manager_
+| _<Role>_ | _<Contact>_ | _<Expectation>_
+|===
 
-include::08_concepts.adoc[]
+== 02 Contraints
 
-include::09_architecture_decisions.adoc[]
+* Use Electric intallation standards from Germany
+* Use Water installation standards from Germany 
+* House inside hight must not smaller then 250 cm
+* The main Entry outside door must be on the south side
+* Inside walls must be 30 cm width
+* Windows must be 140 cm height and 90 up from floor
 
-include::10_quality_requirements.adoc[]
+== Context and Scope
 
-include::11_technical_risks.adoc[]
+ifndef::imagesdir[:imagesdir: .]
 
-include::12_glossary.adoc[]
+== Solution Strategy
+
+== Building Block View
+
+=== Sleeping Room
+
+=== Sleeping Room small
+
+=== Living Room
+
+=== Essen Room
+
+=== Bath & WC
+
+=== Kitchen
+
+=== Garden side
+
+== Runtime View
+
+== Deployment View
+
+== Concepts
+
+== Architecture Decisions
+
+== Quality Requirements
+
+== Technical Risks
+
+=== Development Risks 
+
+* The Development Team is yound and not exeperienced with German standards
+* The House is older and not stable enough due to the last earthquake 2019‑11‑26
+
+=== Living Risks 
+
+* The House may be cold in winter months due to missing fassade isolation
+
+== Glossary
+
