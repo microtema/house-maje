@@ -1,5 +1,10 @@
 = House Maje
 
+:imagesdir: .
+:keywords: architecture, documentation, arc42
+
+:numbered:
+
 == 01 Introduction & Goals
 
 As a small family we want build the house in Kruja, so that we can used during the holidays and short visits.
@@ -15,9 +20,7 @@ Finalizy with Small budget and just before end of 2023
 * Inside walls must be 30 cm width
 * Windows must be 140 cm height and 90 up from floor
 
-== 03 Context & Scope
-
-* 
+include::docs/03_system_scope_and_context.adoc[]
 
 == 04 Solution Strategy
 
