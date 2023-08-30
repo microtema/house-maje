@@ -1,3 +1,5 @@
 == Context and Scope
 
 ifndef::imagesdir[:imagesdir: .]
+
+image::docs/03_context_and_scope.png[]
