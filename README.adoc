@@ -23,7 +23,7 @@ Finalizy with Small budget and just before end of 2023
 | _<Role>_ | _<Contact>_ | _<Expectation>_
 |===
 
-== 02 Contraints
+== Architecture Contraints
 
 * Use Electric intallation standards from Germany
 * Use Water installation standards from Germany 
@@ -35,6 +35,8 @@ Finalizy with Small budget and just before end of 2023
 == Context and Scope
 
 ifndef::imagesdir[:imagesdir: .]
+
+image::docs/03_context_and_scope.png[]
 
 == Solution Strategy
 
