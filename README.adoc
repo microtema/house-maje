@@ -4,11 +4,14 @@
 
 As a small family we want build the house in Kruja, so that we can used during the holidays and short visits.
 
+Finalizy with Small budget and just before end of 2023
+
 == 02 Contraints
 
-
-
-Small budget
+* Use Electric intallation standard from Germany
+* Use Water installation standards from Germany 
+* House hight must not smaller then 250 cm
+* 
 
 == 03 Context & Scope
 
