@@ -12,6 +12,8 @@ Finalizy with Small budget and just before end of 2023
 * Use Water installation standards from Germany 
 * House inside hight must not smaller then 250 cm
 * The main Entry outside door must be on the south side
+* Inside walls must be 30 cm width
+* Windows must be 140 cm height and 90 up from floor
 
 == 03 Context & Scope
 
@@ -52,6 +54,6 @@ Finalizy with Small budget and just before end of 2023
 
 === Living Risks 
 
-* The House may be cold in winter due to missing fassade isolation
+* The House may be cold in winter months due to missing fassade isolation
 
 == 12 Glossary
